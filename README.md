@@ -1,0 +1,3 @@
+- 👋 Hey, I’m Nidal
+- 👀 I’m interested in technology, software, and all aspects of ECE!
+- 📫 Contact (via e-mail): nidal.danial@hotmail.com
