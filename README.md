@@ -1,15 +1,22 @@
 # 👋 Hey, I’m Nidal!
 
-[![Linkedin][Linkedin]][Linkedin-url]
+[![Linkedin][Linkedin]][Linkedin-url]  ![AMD] [![Resume]][Resume-url]
 
 ## About me:
 - 👀 I’m interested in technology, software, and all aspects of ECE!
-- Former PEY Intern at Advanced Micro Devices [AMD]
+- Former PEY Intern at Advanced Micro Devices (AMD)
 - 📫 Contact (via e-mail): nidal.danial@hotmail.com
 ## Tech Stack
 
-[![React][React.js]][React-url]  [![JavaScript][JavaScript]][JavaScript-url]  [![HTML][HTML]][HTML-url]  [![Python][Python]][Python-url]  [![SQL][SQL]][SQL-url]  [![CSS][CSS]][CSS-url]
-![C++][C++]
+### Languages
+[![Python][Python]][Python-url] [![C++][C++]][C++-url]  ![C]  [![JavaScript][JavaScript]][JavaScript-url]  ![Latex]
+
+## Developer Tools
+![GitHub]
+
+### Frameworks / Libraries
+[![React][React.js]][React-url]  [![HTML][HTML]][HTML-url]  [![CSS][CSS]][CSS-url]  [![SQL][SQL]][SQL-url]  [![Flask]][Flask-url]
+![PowerShell]  ![Unreal Engine 4]  ![Git]  ![NumPy]
 
 
 ##
@@ -34,7 +41,20 @@
 [CSS]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=CSS3
 [CSS-url]: https://www.w3schools.com/css/css_intro.asp
 [C++]: https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[C++-url]: https://cplusplus.com
 [Linkedin]: https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [Linkedin-url]: https://www.linkedin.com/in/nidal-danial/
+[Latex]: https://img.shields.io/badge/latex-%23000000.svg?style=for-the-badge&logo=latex&logoColor=white
+[PowerShell]: https://img.shields.io/badge/PowerShell-%23000000.svg?style=for-the-badge&logo=powershell&logoColor=white
+[C]: https://img.shields.io/badge/c-%2300000C.svg?style=for-the-badge&logo=c&logoColor=white
+[Flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com/en/stable/
+[AMD]: https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white
+[Resume]: https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=&logoColor=white
+[Resume-url]: https://nd-full-resume.tiiny.site
+[Unreal Engine 4]: https://img.shields.io/badge/unrealengine-4-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white
+[Git]: https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=white
+[GitHub]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[NumPy]: https://img.shields.io/badge/numpy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=white
 
 
