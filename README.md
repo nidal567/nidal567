@@ -6,7 +6,10 @@
 ## Tech Stack
 
 [![React][React.js]][React-url]  [![JavaScript][JavaScript]][JavaScript-url]  [![HTML][HTML]][HTML-url]  [![Python][Python]][Python-url]  [![SQL][SQL]][SQL-url]  [![CSS][CSS]][CSS-url]
+![C++][C++]
 
+
+##
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nidal567&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Github Trophies
@@ -27,3 +30,4 @@
 [HTML-url]: https://html.com
 [CSS]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=CSS3
 [CSS-url]: https://www.w3schools.com/css/css_intro.asp
+[C++]: https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
