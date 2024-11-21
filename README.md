@@ -1,4 +1,7 @@
 # 👋 Hey, I’m Nidal!
+
+[![Linkedin][Linkedin]][Linkedin-url]
+
 ## About me:
 - 👀 I’m interested in technology, software, and all aspects of ECE!
 - Former PEY Intern at Advanced Micro Devices [AMD]
@@ -31,3 +34,7 @@
 [CSS]: https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=CSS3
 [CSS-url]: https://www.w3schools.com/css/css_intro.asp
 [C++]: https://img.shields.io/badge/c++-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[Linkedin]: https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[Linkedin-url]: https://www.linkedin.com/in/nidal-danial/
+
+
