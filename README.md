@@ -2,6 +2,8 @@
 
 [![Linkedin][Linkedin]][Linkedin-url]  ![AMD] [![Resume]][Resume-url]
 
+https://nidal567.github.io
+
 ## About me:
 - 👀 I’m interested in technology, software, and all aspects of ECE!
 - Former PEY Intern at Advanced Micro Devices (AMD)
