@@ -4,7 +4,7 @@
 
 ## About me:
 - 👀 I’m interested in technology, software, and all aspects of ECE!
-- Former PEY Intern and current SDE2 at Advanced Micro Devices (AMD)
+- SDE2 at Advanced Micro Devices (AMD)
 - 📫 Contact (via e-mail): nidal.danial@hotmail.com
 ## Tech Stack
 
